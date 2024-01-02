@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyText
+  fecha: 2023-12-29
+  numero: 1
+  nombre_empresa: MyText
+  correo_electronico; MyText
+
+two:
+  nombre: MyText
+  fecha: 2023-12-29
+  numero: 1
+  nombre_empresa: MyText
+  correo_electronico: MyTest
